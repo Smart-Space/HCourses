@@ -39,4 +39,4 @@ NWPU-HC/
 
 **1.硬核提交**：Fork本仓库，将仓库放入对应文件夹后提交Pull Request。
 
-**2.轻松分享**：如果不熟悉Git操作，可以直接将资料注明【年级-科目】发送到我的邮箱（*xibeisaodeseng@gmail dot com*），我会经过查看后，帮你上传。
+**2.轻松分享**：如果不熟悉Git操作，可以直接将资料注明【年级-科目】发送到我的邮箱（*xibeisaodeseng@gmail dot com*），我们会审核后上传。
